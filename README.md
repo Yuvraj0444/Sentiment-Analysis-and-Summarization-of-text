@@ -1,7 +1,4 @@
-Description
-
-
-
+# Description
 This project aims to develop a system for sentiment analysis and text summarization. Sentiment analysis involves classifying the emotional tone of a piece of text as positive, negative, or neutral. Text summarization, on the other hand, involves condensing the main ideas of a document into a concise form. The goal is to create a tool that can efficiently analyze sentiments and provide meaningful summaries of text.
 
 #Methodolgy
